@@ -1,0 +1,1 @@
+A cli in rust
